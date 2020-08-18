@@ -3,8 +3,8 @@ import cv2
 
 # Our image and videos
 img_file = 'Car image.jpg'
-#video = cv2.VideoCapture('Tesla Dashcam Accident.mp4')
-video = cv2.VideoCapture('Pedestrians Compilation.mp4')
+video = cv2.VideoCapture('Tesla Dashcam Accident.mp4')
+#video = cv2.VideoCapture('Pedestrians Compilation.mp4')
 
 
 
