@@ -57,15 +57,3 @@ while True:
 
 # Release the VideoCapture object
 video.release()
-
-"""
-
-# Create opencv image
-img = cv2.imread(img_file)
-
-# Convert to grayscale (needed for haar cascade)
-black_n_white = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
-"""
-
-print("Code completed!")
